@@ -1,0 +1,19 @@
+.error{
+    color: black;
+    font-size: .78em;
+    background-color: #FFE3E6;
+    border: 1px solid #ECBCBF;
+    padding: 0.8em 1em;
+    margin: 0 calc(var(--gap) * -1);
+    border-radius: var(--radius);
+}
+
+.note{
+    color: black;
+    font-size: .78em;
+    background-color: #DBEDFF;
+    border: 1px solid #B0CBE7;
+    padding: 0.8em 1em;
+    margin: 0 calc(var(--gap) * -1);
+    border-radius: var(--radius);
+}
